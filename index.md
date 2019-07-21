@@ -1,5 +1,6 @@
 ---
-layout: default
+title: JJuergens Development Site
+description: For a Masters of Science in Business Analytics student at the College of William & Mary
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
